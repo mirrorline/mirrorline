@@ -9,17 +9,21 @@ Hello! I'm [Carlos Musungu](https://github.com/mirrorline), a passionate Researc
 - **Frameworks:** PyTorch, Keras, Scikit-learn
 - **Tools:** Git, VSCode, PowerBi, SQL, Excel
 
+
+
 ## 🚀 Currently Learning:
 - Machine Learning
 - AI
 - Cyber Security
 
+
+- - [Portfolio](caloswanjal.wixsite.com/carloswanjala@gmail.com)
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/caloswanjala)
 - [Mail](caloswanjala@gmail.com)
 
   
-- [Portfolio](caloswanjal.wixsite.com/carloswanjala@gmail.com)
+
 
 ## ⭐️ Fun fact:
 I love open-source projects!
