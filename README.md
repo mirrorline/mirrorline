@@ -16,7 +16,9 @@ Hello! I'm [Carlos Musungu](https://github.com/mirrorline), a passionate Researc
 
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/caloswanjala)
-- [Twitter](https://twitter.com/johnDoe)
+- [Mail](caloswanjala@gmail.com)
+
+  
 - [Portfolio](caloswanjal.wixsite.com/carloswanjala@gmail.com)
 
 ## ⭐️ Fun fact:
