@@ -1,5 +1,42 @@
 ## Hi there 👋
 
+# Welcome to my GitHub profile!
+
+Hello! I'm [Carlos Musungu](https://github.com/mirrorline), a passionate Researcher.
+
+## 🔧 Technologies & Tools:
+- **Languages:** Python PowerBi
+- **Frameworks:** PyTorch, Keras, Scikit-learn
+- **Tools:** Git, VSCode, PowerBi, SQL, Excel
+
+## 🚀 Currently Learning:
+- Machine Learning
+- AI
+- Cyber Security
+
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/caloswanjala)
+- [Twitter](https://twitter.com/johnDoe)
+- [Portfolio](caloswanjal.wixsite.com/carloswanjala@gmail.com)
+
+## ⭐️ Fun fact:
+I love open-source projects!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **mirrorline/mirrorline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
