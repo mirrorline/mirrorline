@@ -12,21 +12,15 @@ Hello! I'm [Carlos Musungu](https://github.com/mirrorline), a passionate Researc
 
 
 ## 🚀 Currently Learning:
-- Machine Learning
 - AI Solutions (Agents)
 - Cyber Security
 
 
-- Portfolio [go](caloswanjal.wixsite.com/carloswanjala@gmail.com)
+- Website and Portfolio [go](caloswanjala.wixsite.com/carloswanjala@gmail.com)
 ## 📫 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/caloswanjala)
 - [Mail](caloswanjala@gmail.com)
 
-  
-
-
-## ⭐️ Fun fact:
-I love open-source projects!
 
 
 
