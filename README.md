@@ -5,9 +5,9 @@
 Hello! I'm [Carlos Musungu](https://github.com/mirrorline), a passionate Researcher.
 
 ## 🔧 Technologies & Tools:
-- **Languages:** Python PowerBi
-- **Frameworks:** PyTorch, Keras, Scikit-learn
-- **Tools:** R, R_Shiny, VSCode, PowerBi, SQL, Excel
+- **Languages:** Python, R, html
+- **Frameworks:** PyTorch, Keras, Scikit-learn, R_Shiny
+- **Tools:** R_Studio, VSCode, PowerBi, SQL, Excel
 
 
 
